@@ -4,6 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "My name is Nicolas and I’m in New College of Florida learning data science."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "About Me",
+    "text": "About Me\nKane’s Free Data Science Bootcamp"
   }
 ]
