@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+My name is **Nicolas** and I'm in **New College of Florida** learning data science.
 
-About this site
+## About Me
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
